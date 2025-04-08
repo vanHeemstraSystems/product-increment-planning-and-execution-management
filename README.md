@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+product-increment-planning-and-execution-management
+# Product Increment Planning and Execution (PIPE) Management
 
-> Slugline
+> In Agile, PIPE stands for "Product Increment Planning and Execution". It refers to the process of planning and executing product increments in Agile methodologies, focusing on delivering value through iterative development.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
