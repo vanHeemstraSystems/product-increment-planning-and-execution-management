@@ -23,6 +23,15 @@ Generated with [Rytr](https://app.rytr.me)
 
 <img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/3c590773-75eb-489b-b11e-d8e476f0781e" />
 
+<table>
+<th colspan="5">Summarize with:</th><tr/> 
+<td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/product-increment-planning-and-execution-management/">ChatGPT</a></td>
+<td><a href="https://x.com/i/grok?text=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/product-increment-planning-and-execution-management/">Grok</a></td>
+<td><a href="https://www.google.com/search?udm=50&aep=11&q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/product-increment-planning-and-execution-management/">Google AI Mode</a></td>
+<td><a href="https://www.perplexity.ai/search/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/product-increment-planning-and-execution-management/">Perplexity</a></td>
+<td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/product-increment-planning-and-execution-management/">Claude.ai</a></td>  
+</table>
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
